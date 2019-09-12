@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://isiquaete.iftrue.top/sitemap.xml
